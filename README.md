@@ -1,12 +1,12 @@
-# 🕒 MesHeures
+# MesHeures
 
 **MesHeures** est une application web légère et intuitive conçue pour les artisans et les employés souhaitant gérer leurs feuilles d'heures par client et par projet, directement depuis leur navigateur.
 
-🚀 **Accéder à l'application :** [https://smims909.github.io/MesHeures/](https://smims909.github.io/MesHeures/)
+**Accéder à l'application :** [https://smims909.github.io/MesHeures/](https://smims909.github.io/MesHeures/)
 
 ---
 
-## ✨ Fonctionnalités
+## Fonctionnalités
 
 * **Saisie simplifiée** : Enregistrement des heures du matin et de l'après-midi par client.
 * **Suivi complet** : Gestion des kilomètres, des repas et des frais annexes.
@@ -14,12 +14,12 @@
 * **Mode Offline** : Une fois chargée, l'application est 100% fonctionnelle sans connexion internet.
 * **Sauvegarde automatique** : Vos données sont enregistrées en temps réel dans votre navigateur.
 
-## 🔒 Confidentialité et Sécurité
+## Confidentialité et Sécurité
 
 * **Zéro Serveur** : Vos données ne sont jamais envoyées sur un serveur. Tout reste stocké localement sur votre appareil (LocalStorage).
 * **Contrôle Total** : Vous êtes le seul propriétaire de vos informations. Pensez à utiliser la fonction d'exportation pour sauvegarder vos données régulièrement.
 
-## 🛠️ Installation (PWA)
+## Installation (PWA)
 
 Vous pouvez installer **MesHeures** comme une application sur votre téléphone :
 1. Ouvrez le lien dans votre navigateur mobile.
@@ -28,7 +28,7 @@ Vous pouvez installer **MesHeures** comme une application sur votre téléphone 
 
 ---
 
-## ⚖️ Licence & Avertissements
+## Licence & Avertissements
 
 Ce projet est sous licence [MIT](LICENSE).
 
